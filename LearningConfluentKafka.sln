@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningConfluentKafka", "LearningConfluentKafka\LearningConfluentKafka.csproj", "{A022E2DC-7436-4E1D-98A4-6B685E8148B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A022E2DC-7436-4E1D-98A4-6B685E8148B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A022E2DC-7436-4E1D-98A4-6B685E8148B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A022E2DC-7436-4E1D-98A4-6B685E8148B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A022E2DC-7436-4E1D-98A4-6B685E8148B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E98634-3980-4CD6-9322-CFA7C4F418A7}
+	EndGlobalSection
+EndGlobal
