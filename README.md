@@ -1,6 +1,6 @@
 ## Simple example of Producer-Consumer in Kafka :smiley:
 
-This project is created to understand the Prodeucer-Consumer model in Kafka, using Confluent Kafka in .NetCore
+This project is created to understand the Producer-Consumer model in Kafka, using Confluent Kafka in .NetCore
 :exclamation:
 
 ### Dependecies
